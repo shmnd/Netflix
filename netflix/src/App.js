@@ -17,9 +17,6 @@ function App() {
      <Rowpost url={documentaries} title='Documentaries' isSmall/>
      <Rowpost url={comdey} title='Comedy' isSmall/>
 
-     HorrorMovies
-
- 
     </div>
   );
 }
