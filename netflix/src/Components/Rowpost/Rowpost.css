@@ -15,10 +15,18 @@
 }
 
 .poster{
-    max-height: 250px;
+    max-height: 220px;
     margin-right: 10px;
 }
 
 .smallposter{
-    max-height: 100px;
+    max-height: 140px;
+    margin-right: 10px;
+
+}
+
+.mediumposter{
+    max-height: 180px;
+    margin-right: 10px;
+
 }
